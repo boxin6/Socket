@@ -1,0 +1,8 @@
+#include <netinet/in.h>
+    unsigned long ing htonl(unsigned long int hostlong);
+    unsigned short int htons(unsigned short int hostshort);
+    unsigned long int ntohl(unsigned long int netlong);
+    unsigned short int ntohs(unsigned short int netshort);
+
+    htnol表示长整形主机字节序转化为网络字节序
+    host to network long
