@@ -1,0 +1,23 @@
+2024-02-19 15:14:35.921171 [info] : ========== Server init ==========
+2024-02-19 15:14:35.921188 [info] : Port:1314, OpenLinger: false
+2024-02-19 15:14:35.921191 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-02-19 15:14:35.921192 [info] : LogSys level: 1
+2024-02-19 15:14:35.921194 [info] : srcDir: /home/bo/Desktop/WebServer/bin/resources/
+2024-02-19 15:14:35.921195 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-02-19 15:14:35.921197 [info] : ========== Server start ==========
+2024-02-19 15:16:01.793655 [info] : ========== Server init ==========
+2024-02-19 15:16:01.793669 [info] : Port:1314, OpenLinger: false
+2024-02-19 15:16:01.793672 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-02-19 15:16:01.793674 [info] : LogSys level: 1
+2024-02-19 15:16:01.793676 [info] : srcDir: /home/bo/Desktop/WebServer/bin/resources/
+2024-02-19 15:16:01.793725 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-02-19 15:16:01.793729 [info] : ========== Server start ==========
+2024-02-19 15:16:03.506831 [info] : Client[18](127.0.0.1:64702) in, userCount:1
+2024-02-19 15:17:02.544227 [info] : ========== Server init ==========
+2024-02-19 15:17:02.544241 [info] : Port:1314, OpenLinger: false
+2024-02-19 15:17:02.544244 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-02-19 15:17:02.544245 [info] : LogSys level: 1
+2024-02-19 15:17:02.544247 [info] : srcDir: /home/bo/Desktop/WebServer/bin/resources/
+2024-02-19 15:17:02.544297 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-02-19 15:17:02.544301 [info] : ========== Server start ==========
+2024-02-19 15:17:03.665279 [info] : Client[18](127.0.0.1:38040) in, userCount:1
